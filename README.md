@@ -1,6 +1,6 @@
-<h1 align="center">Two Views, Two Strengths:<br>Factorized Contrastive Decoding</h1>
+<h1 align="center">Two Views, Two Strengths:<br>Factorized Contrastive Decoding<br>for Context-Faithful Large Language Models</h1>
 
-<p align="center"><b>Context-faithful decoding for large language models, without training</b></p>
+<p align="center"><b>Jungseob Lee, Chanjun Park, Heuiseok Lim</b></p>
 
 <div align="center">
 
